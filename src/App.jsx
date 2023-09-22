@@ -13,26 +13,26 @@ const App = () => {
       <Card
       nombre={"Noa"}
       url={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyvd0XU0MIkgulpqcuIqffD1aZyJEXbxiLiA&usqp=CAU"}
-      informacion={"soy un perrito f"}
+      informacion={"soy un perrito tierno y me gustaria tener un hogar contigo"}
       boton={<Tags bg="success" text="Adoptame"/>}
       />
       <Card
       nombre={"Samantha"}
       url={"https://www.kowalski.es/imagenes/cachorros-labrador-retriever/camada-labrador-04.jpg"}
-      informacion={"soy un perrito f"}
+      informacion={"soy un perrito tierno y me gustaria tener un hogar contigo"}
       boton={<Tags bg="primary" text="Adoptame"/>}
       
       />
       <Card
       nombre={"Max"}
       url={"https://www.petdarling.com/wp-content/uploads/2021/01/cachorros.jpg"}
-      informacion={"soy un perrito f"}
+      informacion={"soy un perrito tierno y me gustaria tener un hogar contigo"}
       boton={<Tags bg="danger" text="Adoptame"/>}
       />
       <Card
       nombre={"Kira"}
       url={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuMGHDWuYTUdd6ftKJl6h_s538wTagbYeBgg&usqp=CAU"}
-      informacion={"soy un perrito f"}
+      informacion={"soy un perrito tierno y me gustaria tener un hogar contigo"}
       boton={<Tags bg="warning" text="Adoptame"/>}
       />
       </div>
