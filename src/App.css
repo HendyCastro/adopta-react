@@ -17,9 +17,15 @@
 }
 
 img{
-  width:200px ;
-  height: 200px;
+  
+  height: 150px;
   border-radius: 50%;
+  
+}
+
+.card{
+  display: flex;
+  width: 250px;
 }
 
 .footer{
