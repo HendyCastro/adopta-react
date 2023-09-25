@@ -11,13 +11,13 @@ const App = () => {
       <Header titulo={"Adopta un Perrito"}/>
       <div className= "container">
       <Card
-      nombre={"Noa"}
+      nombre={"Chiquita"}
       url={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyvd0XU0MIkgulpqcuIqffD1aZyJEXbxiLiA&usqp=CAU"}
       informacion={"soy un perrito tierno y me gustaria tener un hogar contigo"}
       boton={<Tags bg="success" text="Adoptame"/>}
       />
       <Card
-      nombre={"Samantha"}
+      nombre={"Carolina"}
       url={"https://www.kowalski.es/imagenes/cachorros-labrador-retriever/camada-labrador-04.jpg"}
       informacion={"soy un perrito tierno y me gustaria tener un hogar contigo"}
       boton={<Tags bg="primary" text="Adoptame"/>}
